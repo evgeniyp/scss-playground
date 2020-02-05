@@ -1,9 +1,4 @@
 {
-    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
     "editor.wrappingIndent": "indent",
-    "files.autoSaveDelay": 3000,
-    "eslint.enable": true,
-    "eslint.workingDirectories": [
-        "./web"
-    ]
+    "files.autoSaveDelay": 3000
 }
